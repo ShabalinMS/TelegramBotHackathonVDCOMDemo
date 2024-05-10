@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TelegramBotHackathonVDCOMDemo", "TelegramBotHackathonVDCOMDemo.csproj", "{4E7A03D3-FE79-44EE-A721-111573942F69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E7A03D3-FE79-44EE-A721-111573942F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E7A03D3-FE79-44EE-A721-111573942F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E7A03D3-FE79-44EE-A721-111573942F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E7A03D3-FE79-44EE-A721-111573942F69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9B836D4-556E-4E1E-BAF9-CEF1008C1F8E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@TelegramBotHackathonVDCOMDemo_HostAddress = http://localhost:5142
+
+GET {{TelegramBotHackathonVDCOMDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
